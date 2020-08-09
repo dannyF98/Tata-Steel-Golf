@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="5.292" height="9.143" viewBox="0 0 5.292 9.143">
-  <path id="facebook" d="M23.274,9.056h-1.8V8.108a.44.44,0,0,1,.5-.439h1.272V6.1L21.493,6.1c-1.944,0-2.387,1.168-2.387,1.916V9.056H17.982v1.614h1.124v4.568h2.365V10.671h1.6Z" transform="translate(-17.982 -6.096)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="32" viewBox="0 0 16 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9d9d9d;
+      }
+    </style>
+  </defs>
+  <path id="facebook" class="cls-1" d="M33.982,16.458H28.533V13.137A1.406,1.406,0,0,1,30.049,11.6h3.845V6.115L28.6,6.1c-5.879,0-7.217,4.09-7.217,6.707v3.655h-3.4v5.65h3.4V38.1h7.151V22.108h4.825Z" transform="translate(-17.982 -6.096)"/>
 </svg>
